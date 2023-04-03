@@ -1,0 +1,16 @@
+{
+  "Name":"DSO",
+  "Author":"Bomba",
+  "Description":"A First Generated Got Clone Ever",
+  "Icon":"Decades.png",
+  "Banner":"DSOextension.png",
+  "Code":"git: gh repo clone BombaUnited123/chicken-",
+}
+
+"datageo":{
+  "Custom":"Inactive",
+  "Flex":"true",
+  "Exceptional":"list",
+  "Cheat":"Invicibility,Inf Ammo,Inf Stamina, Render Hands, Creator Mode, DSOeditor",
+  "HasSupportProxy":"true",
+},
